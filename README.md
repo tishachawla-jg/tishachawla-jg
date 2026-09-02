@@ -18,7 +18,7 @@
 
 Multi-agent systems fail in two ways that ordinary tooling cannot see. They **overspend**, because a runaway loop burns a month of budget before a per-request rate limit notices anything is wrong. And they are **unreproducible**, because a trace tells you what happened without letting you run it again.
 
-I build the two pieces of infrastructure that fix that, as open source.
+We built the two pieces of infrastructure that fix that, as open source.
 
 <table>
 <tr>
