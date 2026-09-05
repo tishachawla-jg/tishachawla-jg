@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Software Engineer @ Microsoft</b> &nbsp;·&nbsp; building the control plane for AI agents<br>
+  <sub>https://tishachawla-jg.github.io<sub>
   <sub>Co-creator of <a href="https://github.com/theagentplane/tokenops">TokenOps</a> and <a href="https://github.com/theagentplane/chronicle">Chronicle</a> at <a href="https://theagentplane.github.io/">The Agent Plane</a></sub>
 </p>
 
